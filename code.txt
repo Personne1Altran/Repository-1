@@ -3,7 +3,7 @@ int main() {
 
     int number1, number2, sum;
     
-    printf("Enter two integers: version 1 ");
+    printf("Enter two integers: version 33");
     scanf("%d %d", &number1, &number2);
 
     // calculating sum
